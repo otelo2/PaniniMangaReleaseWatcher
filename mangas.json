@@ -1,12 +1,1 @@
-{
-    "mangas":[
-        {
-        "name":"sasaki to miyano",
-        "items":5
-        },
-        {
-        "name":"DEMON SLAYER CUADERNO PARA COLOREAR",
-        "items":3
-        }
-    ]
-}
+{"mangas": [{"name": "sasaki to miyano", "items": 5}, {"name": "DEMON SLAYER CUADERNO PARA COLOREAR", "items": 3}]}
